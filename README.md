@@ -23,8 +23,10 @@
   - [Build your own bot - Slack bot](#back-end-web-development)
 - [PYTHON](#back-end-web-development-python)
   - [iRepoter-api](#back-end-web-development-python)
+  - [Case returns management system](#back-end-web-development-python)
   - [EESBS API](#back-end-web-development-python)
   - [world-bank-api](#back-end-web-development-python)
+  
 
 
 > ## Front-end web development
@@ -56,5 +58,6 @@
 | Project Title                   | Project type         | Repository                                     |
 | :------------------------------ | :------------------- | :--------------------------------------------- |
 | iRepoter-api                    |    SOLO              | [Link](https://github.com/bafiam/iRepoter-api) |
+| Case returns management system  |    SOLO              | [Link](https://github.com/bafiam/Case-returns-management-system) |
 | EESBS API                       |    SOLO              | [Link](https://github.com/bafiam/enumerable_module_gitflow) |
 | world-bank-api                  |    SOLO              | [Link](https://github.com/bafiam/EESBS)       |
