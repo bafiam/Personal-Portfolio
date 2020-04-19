@@ -59,5 +59,5 @@
 | :------------------------------ | :------------------- | :--------------------------------------------- |
 | iRepoter-api                    |    SOLO              | [Link](https://github.com/bafiam/iRepoter-api) |
 | Case returns management system  |    SOLO              | [Link](https://github.com/bafiam/Case-returns-management-system) |
-| EESBS API                       |    SOLO              | [Link](https://github.com/bafiam/enumerable_module_gitflow) |
-| world-bank-api                  |    SOLO              | [Link](https://github.com/bafiam/EESBS)       |
+| EESBS API                       |    SOLO              | [Link](https://github.com/bafiam/EESBS) |
+| world-bank-api                  |    SOLO              | [Link](https://github.com/bafiam/world-bank-api)       |
