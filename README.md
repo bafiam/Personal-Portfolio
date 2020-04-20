@@ -25,11 +25,15 @@
   - [Testing Your Ruby Code - Enumerable](#back-end-web-development)
   - [Build your own bot - Slack bot](#back-end-web-development)
 - [PYTHON](#back-end-web-development-python)
-
   - [iRepoter-api](#back-end-web-development-python)
   - [Case returns management system](#back-end-web-development-python)
   - [EESBS API](#back-end-web-development-python)
   - [world-bank-api](#back-end-web-development-python)
+
+- [RUBY on RAILS](#back-end-web-development-rails)
+  - [Friendship-facebook clone](#back-end-web-development-rails)
+  - [hikers-bay- twitter clone ](#back-end-web-development-rails)
+
 
 > ## Front-end web development
 
@@ -63,3 +67,11 @@
 | Case returns management system | SOLO         | [Link](https://github.com/bafiam/Case-returns-management-system) |
 | EESBS API                      | SOLO         | [Link](https://github.com/bafiam/EESBS)                          |
 | world-bank-api                 | SOLO         | [Link](https://github.com/bafiam/world-bank-api)                 |
+
+> ## Back-end web development rails
+
+| Project Title                  | Project type | Repository                                                       |
+| :----------------------------- | :----------- | :--------------------------------------------------------------- |
+| Friendship-facebook clone      | COLLABORATIVE| [Link](https://github.com/simoxsimo/ror-social-scaffold)         |
+| hikers-bay- twitter clone      | SOLO         | [Link](https://github.com/bafiam/hikers-bay)                     |
+
