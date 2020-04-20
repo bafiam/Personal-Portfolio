@@ -225,3 +225,19 @@ body {
   width: 250px;
   height: 280px;
 }
+
+.na-text span {
+  display: none;
+  font-size: large;
+  font-weight: 800;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.na-text:hover {
+  color: rgb(212, 111, 111);
+}
+
+.na-text:hover span {
+  display: block;
+}
