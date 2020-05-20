@@ -87,4 +87,4 @@
 | :------------- | :------------ | :-------------------------------------------------- |
 | Tic-Tac-Toe-Js | COLLABORATIVE | [Link](https://github.com/bafiam/Tic-Tac-Toe-Js)    |
 | WEATHER-APP    | SOLO          | [Link](https://github.com/bafiam/WEATHER-APP)       |
-| Todo_list-APP  | SOLO          | [Link](https://github.com/ClintonEnyinna/todo_list) |
+| Todo_list-APP  | COLLABORATIVE | [Link](https://github.com/ClintonEnyinna/todo_list) |
