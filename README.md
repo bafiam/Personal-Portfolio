@@ -25,15 +25,21 @@
   - [Testing Your Ruby Code - Enumerable](#back-end-web-development)
   - [Build your own bot - Slack bot](#back-end-web-development)
 - [PYTHON](#back-end-web-development-python)
+
   - [iRepoter-api](#back-end-web-development-python)
   - [Case returns management system](#back-end-web-development-python)
   - [EESBS API](#back-end-web-development-python)
   - [world-bank-api](#back-end-web-development-python)
 
 - [RUBY on RAILS](#back-end-web-development-rails)
-  - [Friendship-facebook clone](#back-end-web-development-rails)
-  - [hikers-bay- twitter clone ](#back-end-web-development-rails)
 
+  - [Friendship-facebook clone](#back-end-web-development-rails)
+  - [hikers-bay- twitter clone](#back-end-web-development-rails)
+
+- [Javascript](#back-end-web-development-js)
+  - [WEATHER-APP](#back-end-web-development-js)
+  - [Tic-Tac-Toe-Js](#back-end-web-development-js)
+  - [To-Do List app](#back-end-web-development-js)
 
 > ## Front-end web development
 
@@ -70,8 +76,15 @@
 
 > ## Back-end web development rails
 
-| Project Title                  | Project type | Repository                                                       |
-| :----------------------------- | :----------- | :--------------------------------------------------------------- |
-| Friendship-facebook clone      | COLLABORATIVE| [Link](https://github.com/simoxsimo/ror-social-scaffold)         |
-| hikers-bay- twitter clone      | SOLO         | [Link](https://github.com/bafiam/hikers-bay)                     |
+| Project Title             | Project type  | Repository                                               |
+| :------------------------ | :------------ | :------------------------------------------------------- |
+| Friendship-facebook clone | COLLABORATIVE | [Link](https://github.com/simoxsimo/ror-social-scaffold) |
+| hikers-bay- twitter clone | SOLO          | [Link](https://github.com/bafiam/hikers-bay)             |
 
+> ## Back-end web development js
+
+| Project Title  | Project type  | Repository                                          |
+| :------------- | :------------ | :-------------------------------------------------- |
+| Tic-Tac-Toe-Js | COLLABORATIVE | [Link](https://github.com/bafiam/Tic-Tac-Toe-Js)    |
+| WEATHER-APP    | SOLO          | [Link](https://github.com/bafiam/WEATHER-APP)       |
+| Todo_list-APP  | SOLO          | [Link](https://github.com/ClintonEnyinna/todo_list) |
