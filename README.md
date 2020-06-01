@@ -84,9 +84,9 @@
 
 > ## Back-end web development js
 
-| Project Title  | Project type  | Repository                                          |
-| :------------- | :------------ | :-------------------------------------------------- |
-| Tic-Tac-Toe-Js | COLLABORATIVE | [Link](https://github.com/bafiam/Tic-Tac-Toe-Js)    |
-| WEATHER-APP    | SOLO          | [Link](https://github.com/bafiam/WEATHER-APP)       |
-| Todo_list-APP  | COLLABORATIVE | [Link](https://github.com/ClintonEnyinna/todo_list) |
-| Feed the Snake | SOLO          | [Link](https://github.com/bafiam/snake-game-js)       |
+| Project Title       | Project type  | Repository                                          |
+| :------------------ | :------------ | :-------------------------------------------------- |
+| Tic-Tac-Toe-Js      | COLLABORATIVE | [Link](https://github.com/bafiam/Tic-Tac-Toe-Js)    |
+| WEATHER-APP         | SOLO          | [Link](https://github.com/bafiam/WEATHER-APP)       |
+| Todo_list-APP       | COLLABORATIVE | [Link](https://github.com/ClintonEnyinna/todo_list) |
+| Feed the Snake Game | SOLO          | [Link](https://github.com/bafiam/snake-game-js)     |
