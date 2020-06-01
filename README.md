@@ -40,6 +40,7 @@
   - [WEATHER-APP](#back-end-web-development-js)
   - [Tic-Tac-Toe-Js](#back-end-web-development-js)
   - [To-Do List app](#back-end-web-development-js)
+  - [Feed the Snake app](#back-end-web-development-js)
 
 > ## Front-end web development
 
@@ -88,3 +89,4 @@
 | Tic-Tac-Toe-Js | COLLABORATIVE | [Link](https://github.com/bafiam/Tic-Tac-Toe-Js)    |
 | WEATHER-APP    | SOLO          | [Link](https://github.com/bafiam/WEATHER-APP)       |
 | Todo_list-APP  | COLLABORATIVE | [Link](https://github.com/ClintonEnyinna/todo_list) |
+| Feed the Snake | SOLO          | [Link](https://github.com/bafiam/snake-game-js)       |
