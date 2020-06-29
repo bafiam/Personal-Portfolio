@@ -37,10 +37,15 @@
   - [hikers-bay- twitter clone](#back-end-web-development-rails)
 
 - [Javascript](#back-end-web-development-js)
+
   - [WEATHER-APP](#back-end-web-development-js)
   - [Tic-Tac-Toe-Js](#back-end-web-development-js)
   - [To-Do List app](#back-end-web-development-js)
   - [Feed the Snake app](#back-end-web-development-js)
+
+- [Javascript-React](#back-end-web-development-react)
+  - [React Calculator](#back-end-web-development-react)
+  - [Bookstore-redux](#back-end-web-development-react)
 
 > ## Front-end web development
 
@@ -90,3 +95,10 @@
 | WEATHER-APP         | SOLO          | [Link](https://github.com/bafiam/WEATHER-APP)       |
 | Todo_list-APP       | COLLABORATIVE | [Link](https://github.com/ClintonEnyinna/todo_list) |
 | Feed the Snake Game | SOLO          | [Link](https://github.com/bafiam/snake-game-js)     |
+
+> ## Back-end web development react
+
+| Project Title    | Project type  | Repository                                         |
+| :--------------- | :------------ | :------------------------------------------------- |
+| React Calculator | SOLO          | [Link](https://github.com/bafiam/react-calculator) |
+| Bookstore-redux  | COLLABORATIVE | [Link](https://github.com/bafiam/Bookstore-redux)  |
