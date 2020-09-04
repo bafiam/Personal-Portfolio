@@ -23,13 +23,6 @@ body {
   display: block;
 }
 
-.card-parent {
-  display: -webkit-flex;
-  display: flex;
-  flex-direction: row;
-  align-items: stretch;
-}
-
 .card-child {
   margin-bottom: 20px;
 }
